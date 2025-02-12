@@ -1,0 +1,38 @@
+{
+    "title": "MS Word Home Tab का पूरा विवरण",
+    "content": [
+      {
+        "heading": "Home Tab का परिचय",
+        "description": "<p>Home Tab MS Word का सबसे अधिक उपयोग किया जाने वाला टैब है, जहां टेक्स्ट एडिटिंग, फॉर्मेटिंग और क्लिपबोर्ड ऑप्शन उपलब्ध होते हैं। इसमें कई ग्रुप होते हैं, जैसे Clipboard, Font, Paragraph, Styles और Editing।</p>"
+      },
+      {
+        "heading": "1. Clipboard Group",
+        "description": "<p>Clipboard Group में कॉपी, कट, पेस्ट और फॉर्मेट पेंटर के विकल्प होते हैं।</p><ul><li><b>Cut (Ctrl + X):</b> चयनित टेक्स्ट या ऑब्जेक्ट को कट करता है।</li><li><b>Copy (Ctrl + C):</b> चयनित टेक्स्ट या ऑब्जेक्ट को कॉपी करता है।</li><li><b>Paste (Ctrl + V):</b> कॉपी या कट किया हुआ कंटेंट पेस्ट करता है।</li><li><b>Paste Special:</b> यह उपयोगकर्ता को विभिन्न फॉर्मेटिंग विकल्पों के साथ कंटेंट पेस्ट करने की सुविधा देता है।</li><li><b>Format Painter (Ctrl + Shift + C / Ctrl + Shift + V):</b> टेक्स्ट की फॉर्मेटिंग कॉपी और अप्लाई करता है।</li></ul>"
+      },
+      {
+        "heading": "2. Font Group",
+        "description": "<p>Font Group टेक्स्ट की अपीयरेंस को नियंत्रित करता है, जैसे कि फॉन्ट टाइप, साइज, कलर आदि।</p><ul><li><b>Font Type:</b> उपयोगकर्ता को उपलब्ध फॉन्ट्स में से किसी एक को चुनने की सुविधा देता है।</li><li><b>Font Size:</b> टेक्स्ट का आकार बदलने के लिए प्रयोग किया जाता है।</li><li><b>Grow Font (Ctrl + Shift + >):</b> फॉन्ट साइज बढ़ाता है।</li><li><b>Shrink Font (Ctrl + Shift + <):</b> फॉन्ट साइज कम करता है।</li><li><b>Bold (Ctrl + B):</b> टेक्स्ट को बोल्ड करता है।</li><li><b>Italic (Ctrl + I):</b> टेक्स्ट को इटैलिक करता है।</li><li><b>Underline (Ctrl + U):</b> टेक्स्ट के नीचे लाइन खींचता है।</li><li><b>Strikethrough:</b> टेक्स्ट के बीच एक लाइन खींचता है।</li><li><b>Subscript (Ctrl + =):</b> टेक्स्ट को नीचे (H<sub>2</sub>O) लिखता है।</li><li><b>Superscript (Ctrl + Shift + =):</b> टेक्स्ट को ऊपर (X<sup>2</sup>) लिखता है।</li><li><b>Text Effects and Typography:</b> टेक्स्ट को शैडो, रिफ्लेक्शन और अन्य प्रभावों के साथ फॉर्मेट करता है।</li><li><b>Font Color (Alt + H, FC):</b> टेक्स्ट का रंग बदलता है।</li><li><b>Text Highlight Color:</b> टेक्स्ट को हाईलाइट करता है।</li></ul>"
+      },
+      {
+        "heading": "3. Paragraph Group",
+        "description": "<p>Paragraph Group टेक्स्ट की संरेखण (Alignment), लाइन स्पेसिंग और बुलेट पॉइंट्स सेट करने के लिए उपयोग किया जाता है।</p><ul><li><b>Align Left (Ctrl + L):</b> टेक्स्ट को बाईं ओर संरेखित करता है।</li><li><b>Align Center (Ctrl + E):</b> टेक्स्ट को सेंटर में लाता है।</li><li><b>Align Right (Ctrl + R):</b> टेक्स्ट को दाईं ओर संरेखित करता है।</li><li><b>Justify (Ctrl + J):</b> टेक्स्ट को जस्टिफाई करता है (दोनों किनारों से संरेखित)।</li><li><b>Bullets (Ctrl + Shift + L):</b> बुलेट पॉइंट्स जोड़ता है।</li><li><b>Numbering:</b> टेक्स्ट में नंबरिंग जोड़ता है।</li><li><b>Multilevel List:</b> हाइरार्किकल लिस्ट बनाने के लिए उपयोग किया जाता है।</li><li><b>Decrease Indent (Ctrl + Shift + M):</b> पैराग्राफ की इंडेंट को घटाता है।</li><li><b>Increase Indent (Ctrl + M):</b> पैराग्राफ की इंडेंट को बढ़ाता है।</li><li><b>Line and Paragraph Spacing:</b> पैराग्राफ की स्पेसिंग सेट करता है।</li><li><b>Shading:</b> पैराग्राफ के बैकग्राउंड का रंग बदलता है।</li><li><b>Borders:</b> पैराग्राफ के चारों ओर बॉर्डर जोड़ता है।</li></ul>"
+      },
+      {
+        "heading": "4. Styles Group",
+        "description": "<p>Styles Group डॉक्यूमेंट में टेक्स्ट के लिए विभिन्न स्टाइल्स को लागू करने के लिए उपयोग किया जाता है।</p><ul><li><b>Normal (Alt + Ctrl + Shift + N):</b> टेक्स्ट को नॉर्मल स्टाइल में बदलता है।</li><li><b>Heading 1 (Alt + Ctrl + 1):</b> हेडिंग 1 स्टाइल लागू करता है।</li><li><b>Heading 2 (Alt + Ctrl + 2):</b> हेडिंग 2 स्टाइल लागू करता है।</li><li><b>Heading 3 (Alt + Ctrl + 3):</b> हेडिंग 3 स्टाइल लागू करता है।</li><li><b>More Styles:</b> उपयोगकर्ता को अधिक स्टाइल्स से चुनने की सुविधा देता है।</li></ul>"
+      },
+      {
+        "heading": "5. Editing Group",
+        "description": "<p>Editing Group में खोज (Find), बदलें (Replace) और चयन (Select) करने के लिए टूल्स होते हैं।</p><ul><li><b>Find (Ctrl + F):</b> डॉक्यूमेंट में कोई शब्द खोजता है।</li><li><b>Replace (Ctrl + H):</b> किसी शब्द को अन्य शब्द से बदलता है।</li><li><b>Select All (Ctrl + A):</b> पूरे टेक्स्ट को सेलेक्ट करता है।</li><li><b>Select:</b> विशेष रूप से फॉर्मेटेड या टेक्स्ट ब्लॉक को सेलेक्ट करने की सुविधा देता है।</li></ul>"
+      },
+      {
+        "heading": "Home Tab का महत्व",
+        "description": "<p>Home Tab MS Word का सबसे आवश्यक टैब है, क्योंकि यह टेक्स्ट एडिटिंग और फॉर्मेटिंग से संबंधित अधिकांश कार्यों को नियंत्रित करता है।</p><ul><li>यह उपयोगकर्ता को टेक्स्ट को प्रोफेशनल लुक देने की सुविधा देता है।</li><li>फॉन्ट, पैराग्राफ और स्टाइल को नियंत्रित करने के लिए उपयोगी है।</li><li>दस्तावेज़ को अधिक प्रभावी और व्यवस्थित बनाने में मदद करता है।</li></ul>"
+      },
+      {
+        "heading": "निष्कर्ष",
+        "description": "<p>MS Word में Home Tab का उपयोग दस्तावेज़ की प्राथमिक एडिटिंग और फॉर्मेटिंग के लिए किया जाता है। इसकी शॉर्टकट कीज़ सीखकर आप अपने कार्य को तेज़ और प्रभावी बना सकते हैं।</p>"
+      }
+    ]
+  }
+  

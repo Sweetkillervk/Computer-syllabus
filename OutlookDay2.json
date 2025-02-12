@@ -1,0 +1,38 @@
+{
+    "title": "MS Outlook में Calendar, Meeting Scheduling और Task Management",
+    "content": [
+      {
+        "heading": "MS Outlook में Calendar का परिचय",
+        "description": "<p>Outlook में <b>Calendar</b> एक उपयोगी फ़ीचर है, जो आपको ईवेंट, मीटिंग और कार्यों को व्यवस्थित करने में मदद करता है। इससे आप अपने कार्यों की योजना बना सकते हैं और महत्वपूर्ण अपॉइंटमेंट को ट्रैक कर सकते हैं।</p>"
+      },
+      {
+        "heading": "1. नया इवेंट या अपॉइंटमेंट जोड़ना",
+        "description": "<p>Outlook में इवेंट या अपॉइंटमेंट जोड़ने के लिए:</p><ol><li><b>Calendar खोलें:</b> Outlook के निचले पैनल में 'Calendar' आइकन पर क्लिक करें।</li><li><b>New Appointment चुनें:</b> 'Home' टैब में जाकर 'New Appointment' पर क्लिक करें।</li><li><b>Title और Location भरें:</b> अपॉइंटमेंट का नाम (Title) और स्थान (Location) डालें।</li><li><b>दिनांक और समय सेट करें:</b> इवेंट के लिए तारीख और समय चुनें।</li><li><b>Reminder सेट करें:</b> आपको इवेंट से पहले नोटिफिकेशन मिले, इसके लिए Reminder सेट करें।</li><li><b>Save & Close पर क्लिक करें:</b> अपॉइंटमेंट सेव करने के लिए 'Save & Close' पर क्लिक करें।</li></ol>"
+      },
+      {
+        "heading": "2. मीटिंग शेड्यूल करना",
+        "description": "<p>MS Outlook का <b>Meeting Scheduling</b> फ़ीचर आपको ऑनलाइन और ऑफलाइन मीटिंग सेट करने में मदद करता है।</p><ol><li><b>New Meeting खोलें:</b> 'Home' टैब में 'New Meeting' बटन पर क्लिक करें।</li><li><b>Attendees जोड़ें:</b> 'To' फील्ड में मीटिंग में शामिल होने वाले लोगों के ईमेल एड्रेस डालें।</li><li><b>Meeting Subject और Location:</b> मीटिंग का विषय (Subject) और स्थान (Location) भरें।</li><li><b>Meeting का समय सेट करें:</b> मीटिंग की तारीख और समय निर्धारित करें।</li><li><b>Reminder और Recurrence:</b> मीटिंग के लिए रिमाइंडर और पुनरावृत्ति (Recurring Meeting) सेट कर सकते हैं।</li><li><b>Send पर क्लिक करें:</b> मीटिंग इनविटेशन भेजने के लिए 'Send' पर क्लिक करें।</li></ol>"
+      },
+      {
+        "heading": "3. Meeting Request स्वीकार या अस्वीकार करना",
+        "description": "<p>जब आपको मीटिंग इनविटेशन प्राप्त होता है, तो आप निम्नलिखित विकल्प चुन सकते हैं:</p><ul><li><b>Accept:</b> मीटिंग में भाग लेने के लिए।</li><li><b>Tentative:</b> यदि आप निश्चित नहीं हैं तो।</li><li><b>Decline:</b> यदि आप मीटिंग में भाग नहीं ले सकते।</li><li><b>Propose New Time:</b> यदि आप मीटिंग का समय बदलना चाहते हैं।</li></ul>"
+      },
+      {
+        "heading": "4. Task Management (कार्य प्रबंधन)",
+        "description": "<p>Outlook में <b>Tasks</b> फ़ीचर से आप अपने कार्यों को ट्रैक कर सकते हैं और समय पर पूरा कर सकते हैं।</p><ol><li><b>Tasks खोलें:</b> Outlook में 'Tasks' आइकन पर क्लिक करें।</li><li><b>New Task बनाएं:</b> 'Home' टैब में जाकर 'New Task' पर क्लिक करें।</li><li><b>Title और Details डालें:</b> कार्य का नाम (Title) और विवरण (Details) लिखें।</li><li><b>Start और Due Date सेट करें:</b> कार्य को शुरू करने और पूरा करने की तिथि निर्धारित करें।</li><li><b>Priority सेट करें:</b> कार्य की प्राथमिकता (High, Normal, Low) चुनें।</li><li><b>Reminder जोड़ें:</b> कार्य के लिए रिमाइंडर सेट करें।</li><li><b>Save & Close पर क्लिक करें:</b> कार्य को सेव करने के लिए 'Save & Close' पर क्लिक करें।</li></ol>"
+      },
+      {
+        "heading": "5. Task Status ट्रैक करना",
+        "description": "<p>Outlook आपको कार्यों की स्थिति देखने की सुविधा देता है:</p><ul><li><b>Not Started:</b> कार्य अभी शुरू नहीं हुआ है।</li><li><b>In Progress:</b> कार्य जारी है।</li><li><b>Completed:</b> कार्य पूरा हो गया है।</li><li><b>Waiting on Someone Else:</b> यदि कार्य किसी और व्यक्ति द्वारा पूरा किया जाना है।</li><li><b>Deferred:</b> कार्य को बाद के लिए टाल दिया गया है।</li></ul>"
+      },
+      {
+        "heading": "6. Outlook में Reminder और Notification सेट करना",
+        "description": "<p>Outlook आपको महत्वपूर्ण कार्यों और मीटिंग्स के लिए Reminder सेट करने की सुविधा देता है:</p><ol><li><b>Calendar या Task खोलें:</b> वह इवेंट या कार्य चुनें जिसके लिए Reminder सेट करना है।</li><li><b>Reminder बटन पर क्लिक करें:</b> टूलबार में 'Reminder' विकल्प चुनें।</li><li><b>Time सेट करें:</b> कितने समय पहले आपको Reminder चाहिए, इसे सेट करें।</li><li><b>Save करें:</b> बदलाव सेव करने के लिए 'OK' पर क्लिक करें।</li></ol>"
+      },
+      {
+        "heading": "निष्कर्ष",
+        "description": "<p>MS Outlook का <b>Calendar, Meeting Scheduling और Task Management</b> फ़ीचर आपको अपने व्यस्त शेड्यूल को बेहतर तरीके से प्रबंधित करने में मदद करता है। आप अपनी मीटिंग्स, कार्यों और अपॉइंटमेंट को व्यवस्थित कर सकते हैं और समय पर Reminder सेट करके अपने कार्यों को पूरा कर सकते हैं।</p>"
+      }
+    ]
+  }
+  

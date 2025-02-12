@@ -1,0 +1,34 @@
+{
+    "title": "MS Excel Formula Tab",
+    "content": [
+      {
+        "heading": "Formula Tab का परिचय",
+        "description": "<p>MS Excel में Formula Tab का उपयोग विभिन्न प्रकार के गणनात्मक कार्यों को करने के लिए किया जाता है। यह टैब उपयोगकर्ताओं को गणितीय, तार्किक, वित्तीय, सांख्यिकीय, टेक्स्ट और अन्य प्रकार के फार्मूला लागू करने की सुविधा देता है।</p>"
+      },
+      {
+        "heading": "Formula Tab के मुख्य Groups",
+        "description": "<p>Formula Tab निम्नलिखित मुख्य ग्रुप्स में विभाजित होता है:</p>"
+      },
+      {
+        "heading": "1. Function Library Group",
+        "description": "<p>यह ग्रुप Excel में उपलब्ध विभिन्न प्रकार के Functions (सूत्रों) को आसानी से एक्सेस करने के लिए होता है।</p><ul><li><b>Insert Function (Shift + F3):</b> यह ऑप्शन उपयोगकर्ता को Excel में उपलब्ध सभी Functions की सूची देता है।</li><li><b>AutoSum (Alt + =):</b> जल्दी से Sum, Average, Count, Max और Min निकालने के लिए।</li><li><b>Recently Used:</b> हाल ही में उपयोग किए गए Functions को देखने और पुनः उपयोग करने के लिए।</li><li><b>Financial:</b> वित्तीय गणनाओं के लिए (उदाहरण: PMT, FV, NPV)।</li><li><b>Logical:</b> तार्किक ऑपरेशन्स के लिए (उदाहरण: IF, AND, OR, NOT)।</li><li><b>Text:</b> टेक्स्ट मैनेजमेंट के लिए (उदाहरण: CONCATENATE, LEFT, RIGHT, MID)।</li><li><b>Date & Time:</b> दिनांक और समय से संबंधित Functions (उदाहरण: TODAY, NOW, DATE, TIME)।</li><li><b>Lookup & Reference:</b> डेटा खोजने और संदर्भित करने के लिए (उदाहरण: VLOOKUP, HLOOKUP, INDEX, MATCH)।</li><li><b>Math & Trig:</b> गणितीय और त्रिकोणमितीय गणनाओं के लिए (उदाहरण: SUM, ROUND, INT, MOD, POWER)।</li><li><b>More Functions:</b> अन्य श्रेणियों के Functions जैसे सांख्यिकीय, इंजीनियरिंग, वेब और कस्टम Functions।</li></ul>"
+      },
+      {
+        "heading": "2. Defined Names Group",
+        "description": "<p>यह ग्रुप वर्कशीट में डेटा रेंज और सेल्स के नाम मैनेज करने के लिए उपयोग किया जाता है।</p><ul><li><b>Name Manager (Ctrl + F3):</b> सभी नामित रेंज को मैनेज करने और एडिट करने के लिए।</li><li><b>Define Name:</b> किसी सेल या रेंज को नाम देने के लिए।</li><li><b>Use in Formula:</b> पहले से परिभाषित नामों को फार्मूला में उपयोग करने के लिए।</li><li><b>Create from Selection:</b> किसी चयनित डेटा से स्वतः नाम बनाने के लिए।</li></ul>"
+      },
+      {
+        "heading": "3. Formula Auditing Group",
+        "description": "<p>यह ग्रुप वर्कशीट में इस्तेमाल किए गए फॉर्मूला को समझने और उनकी जाँच करने के लिए उपयोग किया जाता है।</p><ul><li><b>Trace Precedents:</b> यह दिखाता है कि कौन-कौन से सेल किसी विशेष फॉर्मूला से जुड़े हैं।</li><li><b>Trace Dependents:</b> यह दिखाता है कि कोई विशेष सेल किन अन्य सेल्स द्वारा उपयोग किया जा रहा है।</li><li><b>Remove Arrows:</b> Precedents और Dependents के संकेतक तीर (arrows) हटाने के लिए।</li><li><b>Show Formulas (Ctrl + `):</b> सभी फॉर्मूला को दिखाने या छिपाने के लिए।</li><li><b>Error Checking:</b> वर्कशीट में मौजूद फार्मूला एरर की जाँच करने के लिए।</li><li><b>Evaluate Formula:</b> किसी फॉर्मूला के मूल्यांकन (evaluation) की प्रक्रिया को स्टेप-बाय-स्टेप देखने के लिए।</li><li><b>Watch Window:</b> किसी विशेष सेल के मान को लगातार ट्रैक करने के लिए।</li></ul>"
+      },
+      {
+        "heading": "4. Calculation Group",
+        "description": "<p>यह ग्रुप Excel में गणनाओं को नियंत्रित करने के लिए होता है।</p><ul><li><b>Calculation Options:</b> यह मैन्युअल या ऑटोमेटिक गणना (calculation) सेट करने के लिए होता है।</li><li><b>Calculate Now (F9):</b> पूरी वर्कबुक की गणना करने के लिए।</li><li><b>Calculate Sheet (Shift + F9):</b> केवल सक्रिय वर्कशीट की गणना करने के लिए।</li></ul>"
+      },
+      {
+        "heading": "निष्कर्ष",
+        "description": "<p>MS Excel का Formula Tab उपयोगकर्ताओं को विभिन्न गणितीय, तार्किक और वित्तीय गणनाओं को आसानी से करने की सुविधा देता है। इसमें उपलब्ध विभिन्न ग्रुप्स जैसे Function Library, Defined Names, Formula Auditing और Calculation उपयोगकर्ताओं को वर्कशीट में डाटा विश्लेषण को आसान बनाते हैं।</p>"
+      }
+    ]
+  }
+  

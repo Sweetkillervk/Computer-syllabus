@@ -1,0 +1,54 @@
+{
+    "title": "MS Excel Format Tab",
+    "content": [
+      {
+        "heading": "Format Tab का परिचय",
+        "description": "<p>MS Excel में Format Tab तब दिखाई देता है जब कोई Picture, Shape, Chart, या अन्य ड्राइंग ऑब्जेक्ट चयनित किया जाता है। यह टैब उपयोगकर्ताओं को चित्र, आकृतियों (Shapes), और अन्य ग्राफिक तत्वों का स्वरूप बदलने की सुविधा देता है।</p>"
+      },
+      {
+        "heading": "1. Shape Format Tab",
+        "description": "<p>Shape Format Tab तब सक्रिय होता है जब कोई Shape, Text Box, या Drawing Object चयनित किया जाता है।</p>"
+      },
+      {
+        "heading": "Shape Styles Group",
+        "description": "<p>यह ग्रुप आकृतियों (Shapes) के रंग, किनारे (Border), और प्रभावों को बदलने के लिए उपयोग किया जाता है।</p><ul><li><b>Shape Fill:</b> Shape का रंग बदलने के लिए।</li><li><b>Shape Outline:</b> Shape के किनारे (Border) का रंग और मोटाई बदलने के लिए।</li><li><b>Shape Effects:</b> Shape पर 3D, Shadow, Glow, और अन्य प्रभाव जोड़ने के लिए।</li></ul>"
+      },
+      {
+        "heading": "WordArt Styles Group",
+        "description": "<p>यह ग्रुप Text Box या WordArt टेक्स्ट के स्वरूप को बदलने के लिए उपयोग किया जाता है।</p><ul><li><b>Text Fill:</b> टेक्स्ट का रंग बदलने के लिए।</li><li><b>Text Outline:</b> टेक्स्ट के बाहरी किनारे का रंग बदलने के लिए।</li><li><b>Text Effects:</b> 3D, Shadow, Reflection, और Glow प्रभाव जोड़ने के लिए।</li></ul>"
+      },
+      {
+        "heading": "Arrange Group",
+        "description": "<p>यह ग्रुप Shapes और अन्य ऑब्जेक्ट्स को व्यवस्थित करने के लिए उपयोग किया जाता है।</p><ul><li><b>Bring Forward:</b> चयनित ऑब्जेक्ट को सामने लाने के लिए।</li><li><b>Send Backward:</b> चयनित ऑब्जेक्ट को पीछे भेजने के लिए।</li><li><b>Align:</b> ऑब्जेक्ट्स को समान रूप से व्यवस्थित करने के लिए।</li><li><b>Group:</b> एक से अधिक ऑब्जेक्ट को एक साथ जोड़ने के लिए।</li><li><b>Rotate:</b> Shape या ऑब्जेक्ट को घुमाने के लिए।</li></ul>"
+      },
+      {
+        "heading": "Size Group",
+        "description": "<p>यह ग्रुप Shape या Picture के आकार (Size) को बदलने के लिए उपयोग किया जाता है।</p><ul><li><b>Height:</b> Shape की ऊँचाई सेट करने के लिए।</li><li><b>Width:</b> Shape की चौड़ाई सेट करने के लिए।</li></ul>"
+      },
+      {
+        "heading": "2. Picture Format Tab",
+        "description": "<p>Picture Format Tab तब सक्रिय होता है जब कोई Image या Picture चयनित होती है।</p>"
+      },
+      {
+        "heading": "Adjust Group",
+        "description": "<p>यह ग्रुप Picture की चमक, कंट्रास्ट, और कलर एडजस्टमेंट के लिए उपयोग किया जाता है।</p><ul><li><b>Remove Background:</b> तस्वीर के पीछे की पृष्ठभूमि हटाने के लिए।</li><li><b>Corrections:</b> तस्वीर की चमक और कंट्रास्ट को समायोजित करने के लिए।</li><li><b>Color:</b> तस्वीर के रंग बदलने के लिए।</li><li><b>Artistic Effects:</b> तस्वीर पर विभिन्न प्रभाव जोड़ने के लिए।</li></ul>"
+      },
+      {
+        "heading": "Picture Styles Group",
+        "description": "<p>यह ग्रुप Image पर विभिन्न स्टाइल्स और बॉर्डर जोड़ने के लिए उपयोग किया जाता है।</p><ul><li><b>Picture Border:</b> चित्र के चारों ओर बॉर्डर जोड़ने के लिए।</li><li><b>Picture Effects:</b> Shadow, Glow, Reflection, और 3D Effects जोड़ने के लिए।</li></ul>"
+      },
+      {
+        "heading": "Crop Group",
+        "description": "<p>यह ग्रुप Image को क्रॉप करने के लिए उपयोग किया जाता है।</p><ul><li><b>Crop:</b> अनावश्यक भाग हटाने के लिए।</li><li><b>Aspect Ratio:</b> Image को एक निश्चित अनुपात में सेट करने के लिए।</li></ul>"
+      },
+      {
+        "heading": "Arrange & Size Group",
+        "description": "<p>यह ग्रुप Image के आकार और स्थान को व्यवस्थित करने के लिए उपयोग किया जाता है।</p><ul><li><b>Bring Forward / Send Backward:</b> Image को अन्य ऑब्जेक्ट्स के सामने या पीछे लाने के लिए।</li><li><b>Align:</b> Image को सही स्थान पर व्यवस्थित करने के लिए।</li><li><b>Rotate:</b> Image को घुमाने के लिए।</li></ul>"
+      },
+      {
+        "heading": "निष्कर्ष",
+        "description": "<p>MS Excel का Format Tab विशेष रूप से Shape, Picture, और अन्य ग्राफ़िक ऑब्जेक्ट्स को संशोधित करने के लिए उपयोग किया जाता है। यह उपयोगकर्ताओं को उनकी वर्कशीट को अधिक आकर्षक और पेशेवर दिखाने की सुविधा देता है।</p>"
+      }
+    ]
+  }
+  

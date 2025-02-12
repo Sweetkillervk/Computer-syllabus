@@ -1,0 +1,34 @@
+{
+    "title": "MS Outlook के Advanced Features: Auto Reply, Signature, और Rules",
+    "content": [
+      {
+        "heading": "1. Auto Reply (Automatic Email Response)",
+        "description": "<p>Auto Reply (Automatic Email Response) का उपयोग तब किया जाता है जब आप किसी कारणवश अपने ईमेल का तुरंत उत्तर नहीं दे सकते, जैसे कि छुट्टी (vacation) या व्यस्तता के दौरान।</p>"
+      },
+      {
+        "heading": "Outlook में Auto Reply सेट करने की प्रक्रिया",
+        "description": "<ol><li><b>Outlook खोलें:</b> MS Outlook एप्लिकेशन शुरू करें।</li><li><b>File Tab पर जाएं:</b> 'File' टैब पर क्लिक करें।</li><li><b>Automatic Replies चुनें:</b> 'Automatic Replies (Out of Office)' विकल्प पर क्लिक करें।</li><li><b>Auto Reply Enable करें:</b> 'Send automatic replies' विकल्प को सक्रिय करें।</li><li><b>Time Range सेट करें (Optional):</b> यदि आप चाहते हैं कि Auto Reply केवल एक निश्चित समय के लिए काम करे, तो 'Only send during this time range' विकल्प चुनें और समय निर्धारित करें।</li><li><b>Message लिखें:</b> दो टाइप के संदेश सेट करें: एक 'Inside My Organization' (आंतरिक ईमेल के लिए) और एक 'Outside My Organization' (बाहरी ईमेल के लिए)।</li><li><b>Save और Close करें:</b> 'OK' पर क्लिक करें, जिससे Auto Reply सक्रिय हो जाएगा।</li></ol>"
+      },
+      {
+        "heading": "2. Email Signature",
+        "description": "<p>Email Signature वह टेक्स्ट होता है जो आपके द्वारा भेजे गए प्रत्येक ईमेल के नीचे ऑटोमेटिक रूप से जुड़ जाता है। इसमें नाम, पद, संपर्क जानकारी, और कंपनी की जानकारी शामिल हो सकती है।</p>"
+      },
+      {
+        "heading": "Outlook में Email Signature सेट करने की प्रक्रिया",
+        "description": "<ol><li><b>Outlook खोलें:</b> MS Outlook को शुरू करें।</li><li><b>File Tab पर जाएं:</b> 'File' टैब पर क्लिक करें।</li><li><b>Options चुनें:</b> 'Options' पर क्लिक करें और फिर 'Mail' सेक्शन में जाएं।</li><li><b>Signatures पर क्लिक करें:</b> 'Create or Modify Signatures for Messages' विकल्प चुनें।</li><li><b>New Signature बनाएं:</b> 'New' बटन पर क्लिक करें और अपनी Signature को नाम दें।</li><li><b>Signature Text टाइप करें:</b> टेक्स्ट बॉक्स में अपनी Email Signature टाइप करें (जैसे नाम, पद, कंपनी की जानकारी)।</li><li><b>Font और Style सेट करें:</b> आप टेक्स्ट का फॉन्ट, साइज, और कलर बदल सकते हैं।</li><li><b>Default Signature सेट करें:</b> चुनें कि यह Signature केवल नए ईमेल के लिए इस्तेमाल होगा या Reply/Forward के लिए भी।</li><li><b>Save और Apply करें:</b> 'OK' पर क्लिक करके Signature सेव करें।</li></ol>"
+      },
+      {
+        "heading": "3. Outlook Rules (Automated Email Sorting & Filtering)",
+        "description": "<p>Rules का उपयोग Email Management को आसान बनाने के लिए किया जाता है। Rules आपको ईमेल को ऑटोमेटिकली अलग-अलग फोल्डर में मूव करने, डिलीट करने, या फॉरवर्ड करने की सुविधा देता है।</p>"
+      },
+      {
+        "heading": "Outlook में Rules सेट करने की प्रक्रिया",
+        "description": "<ol><li><b>Outlook खोलें:</b> MS Outlook एप्लिकेशन शुरू करें।</li><li><b>File Tab पर जाएं:</b> 'File' टैब पर क्लिक करें।</li><li><b>Manage Rules & Alerts चुनें:</b> 'Rules and Alerts' पर क्लिक करें।</li><li><b>New Rule बनाएं:</b> 'New Rule' बटन पर क्लिक करें।</li><li><b>Rule Type चुनें:</b> उदाहरण के लिए, 'Move messages from someone to a folder' का चयन करें।</li><li><b>शर्तें सेट करें:</b> ईमेल भेजने वाले, विषय, या किसी अन्य मानदंड को चुनें।</li><li><b>कार्यवाही सेट करें:</b> तय करें कि ईमेल को किस फोल्डर में मूव करना है, डिलीट करना है, या किसी अन्य एक्शन को लागू करना है।</li><li><b>Rule नाम दें और Finish करें:</b> Rule को नाम दें और 'Finish' पर क्लिक करें।</li></ol>"
+      },
+      {
+        "heading": "निष्कर्ष",
+        "description": "<p>MS Outlook के Advanced Features जैसे Auto Reply, Email Signature, और Rules उपयोगकर्ता की Productivity बढ़ाने में सहायक होते हैं। Auto Reply से आप अनुपस्थिति के दौरान जवाब भेज सकते हैं, Email Signature से हर ईमेल में प्रोफेशनल टच जोड़ सकते हैं, और Rules का उपयोग करके अपने Inbox को व्यवस्थित कर सकते हैं।</p>"
+      }
+    ]
+  }
+  
