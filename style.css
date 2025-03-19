@@ -17,6 +17,38 @@ body {
     background-size: cover;
 }
 
+
+  
+        /* Stylish Translation Button */
+        .translate-btn {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            font-size: 14px;
+            border-radius: 5px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+        }
+
+        /* Google Translate Box Styling */
+        #google_translate_element {
+            position: fixed;
+            top: 50px;
+            right: 10px;
+            background: white;
+            padding: 8px;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: none; /* Initially Hidden */
+            z-index: 999;
+        }
+    
+
 .container {
     max-width: 1200px;
     width: 100%;
@@ -40,7 +72,6 @@ body {
 
 /* Roadmap Section */
 .roadmap {
-      height: auto;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
@@ -183,7 +214,9 @@ body {
 /* Back Button */
 #back-button {
     display: none;
-    margin-top: 20px;
+    position: fixed;  /* Fix the button in place */
+    top: 20px;    /* Distance from bottom */
+    left: 20px;      /* Distance from left */
     padding: 12px 25px;
     background-color: #2d87f0;
     color: white;
@@ -192,6 +225,8 @@ body {
     font-size: 1.2rem;
     cursor: pointer;
     transition: all 0.3s ease;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Adds a shadow effect */
+    z-index: 1000;  /* Ensures it stays above other elements */
 }
 
 #back-button:hover {
