@@ -28,6 +28,7 @@
                     <div class="skill-card" data-json="day 9.json">day 9</div>
                     <div class="skill-card" data-json="day 10.json">day 10</div>
                     <div class="skill-card" data-json="day 11.json">day 11</div>
+                    <div class="skill-card" data-json="BasicQuestion.json" style="background-color: #14df10;">Question</div>
                 </div>
             </div>
              
@@ -46,6 +47,7 @@
                     <div class="skill-card" data-json="wordReview.json">Review Day 20</div>
                     <div class="skill-card" data-json="wordView.json">View Day 21</div>
                     <div class="skill-card" data-json="wordFormate.json">Formate Day 22</div>
+                     <div class="skill-card" data-json="WordQuestion.json" style="background-color: #14df10;">Question</div>
                 </div>
             </div>
             
@@ -63,6 +65,7 @@
                     <div class="skill-card" data-json="excelReview.json">Review Day 30</div>
                     <div class="skill-card" data-json="excelView.json">View Day 31</div>
                     <div class="skill-card" data-json="excelFormate.json">Formate Day 32</div>
+                    <div class="skill-card" data-json="ExcelQuestion.json" style="background-color: #14df10;">Question</div>
                 </div>
             </div>
 
@@ -81,6 +84,7 @@
                     <div class="skill-card" data-json="PowerpointRecord.json">Record Day 41</div>
                     <div class="skill-card" data-json="PowerpointReview.json">Review Day 42</div>
                     <div class="skill-card" data-json="Powerpointview.json">view Day 43</div>
+                    <div class="skill-card" data-json="PowerQuestion.json" style="background-color: #14df10;">Question</div>
                 </div>
             </div>
 
@@ -134,6 +138,7 @@
                     <div class="skill-card" data-json="html.json">HTML</div>
                     <div class="skill-card" data-json="css.json">CSS</div>
                     <div class="skill-card" data-json="javascript.json">JavaScript</div>
+                    <div class="skill-card" data-json="Operating.json" style="background-color: #14df10;">Question</div>
                 </div>
             </div>
             
@@ -146,8 +151,43 @@
             <p>Click on a skill to see details</p>
         </div>
         
-        <button id="back-button">Back to Roadmap</button>
+        <button id="back-button">Back</button>
     </div>
+    
+    
+    
+    
+      <!-- Google Translate Dropdown -->
+    <div id="google_translate_element"></div>
+
+    <!-- Translate Button -->
+    <button class="translate-btn" onclick="toggleTranslate()"> Translate</button>
+
+    <script>
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'auto',
+                includedLanguages: 'en',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+            }, 'google_translate_element');
+        }
+
+        // Function to Toggle Translation Box
+        function toggleTranslate() {
+            var translateBox = document.getElementById("google_translate_element");
+            if (translateBox.style.display === "none" || translateBox.style.display === "") {
+                translateBox.style.display = "block";
+            } else {
+                translateBox.style.display = "none";
+            }
+        }
+    </script>
+
+    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+    
+    
+    
+    
 
     <script>
         document.addEventListener("DOMContentLoaded", () => {
@@ -198,4 +238,22 @@
     </script>
 
 </body>
+<script>
+	// Disable text selection
+document.addEventListener('selectstart', function(e) {
+    e.preventDefault();
+});
+
+// Disable right-click
+document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+});
+
+// Disable drag events (to prevent dragging content)
+document.addEventListener('dragstart', function(e) {
+    e.preventDefault();
+});
+</script>
+
+
 </html>
