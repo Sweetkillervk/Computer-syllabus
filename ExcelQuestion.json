@@ -1,0 +1,250 @@
+{
+    "title": "MS Excel के महत्वपूर्ण प्रश्न और उत्तर",
+    "content":[
+    {
+        "heading": "<b>1.</b> MS Excel क्या है?",
+        "description": "MS Excel एक स्प्रेडशीट प्रोग्राम है,<br> जिसका उपयोग डेटा को स्टोर, व्यवस्थित, विश्लेषण और गणना करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>2.</b> MS Excel में Workbook और Worksheet में क्या अंतर है?",
+        "description": "Workbook एक पूरी फाइल होती है,<br> जबकि Worksheet एक स्प्रेडशीट पेज होता है,<br> जिसमें डेटा संग्रहीत किया जाता है।"
+    },
+    {
+        "heading": "<b>3.</b> MS Excel में Row और Column क्या होते हैं?",
+        "description": "Row क्षैतिज (Horizontally) होती है और नंबर (1, 2, 3...) से पहचानी जाती है।<br> Column ऊर्ध्वाधर (Vertically) होती है और अक्षरों (A, B, C...) से पहचानी जाती है।"
+    },
+    {
+        "heading": "<b>4.</b> MS Excel में Cell क्या होता है?",
+        "description": "Cell Row और Column के मिलन बिंदु को कहते हैं,<br> जहाँ डेटा दर्ज किया जाता है।"
+    },
+    {
+        "heading": "<b>5.</b> MS Excel में Active Cell क्या होती है?",
+        "description": "Active Cell वह Cell होती है,<br> जिस पर वर्तमान में चयन (Selection) किया गया होता है।"
+    },
+    {
+        "heading": "<b>6.</b> MS Excel में Formula Bar क्या होता है?",
+        "description": "Formula Bar वह स्थान होता है,<br> जहाँ Cell में डाले गए डेटा या फ़ॉर्मूला को देखा और संपादित किया जा सकता है।"
+    },
+    {
+        "heading": "<b>7.</b> MS Excel में AutoSum का क्या उपयोग है?",
+        "description": "AutoSum का उपयोग Cells के डेटा का त्वरित योग (Sum) निकालने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>8.</b> MS Excel में Merge & Center का उपयोग क्या है?",
+        "description": "Merge & Center का उपयोग एक से अधिक Cells को मिलाकर<br> उसमें मौजूद डेटा को केंद्र में रखने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>9.</b> MS Excel में COUNT और COUNTA फ़ंक्शन में क्या अंतर है?",
+        "description": "**COUNT** केवल संख्यात्मक डेटा की गिनती करता है,<br> जबकि **COUNTA** किसी भी प्रकार के डेटा (संख्या, टेक्स्ट आदि) की गिनती करता है।"
+    },
+    {
+        "heading": "<b>10.</b> MS Excel में IF फ़ॉर्मूला क्या करता है?",
+        "description": "IF फ़ॉर्मूला किसी शर्त (Condition) के आधार पर अलग-अलग परिणाम देता है।<br> उदाहरण: `=IF(A1>50, 'Pass', 'Fail')`"
+    },
+    {
+        "heading": "<b>11.</b> MS Excel में VLOOKUP और HLOOKUP में क्या अंतर है?",
+        "description": "**VLOOKUP** वर्टिकल (Column) में डेटा खोजता है,<br> जबकि **HLOOKUP** हॉरिजॉन्टल (Row) में डेटा खोजता है।"
+    },
+    {
+        "heading": "<b>12.</b> MS Excel में Pivot Table का क्या उपयोग है?",
+        "description": "Pivot Table का उपयोग डेटा का विश्लेषण और सारांश (Summary) बनाने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>13.</b> MS Excel में Filter और Sort में क्या अंतर है?",
+        "description": "**Filter** का उपयोग विशेष डेटा को छाँटकर दिखाने के लिए,<br> और **Sort** का उपयोग डेटा को क्रमबद्ध (Ascending या Descending) करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>14.</b> MS Excel में Charts का क्या उपयोग है?",
+        "description": "Charts का उपयोग डेटा को ग्राफिकल रूप में प्रदर्शित करने के लिए किया जाता है।<br> जैसे - Bar Chart, Pie Chart, Line Chart आदि।"
+    },
+    {
+        "heading": "<b>15.</b> MS Excel में Freeze Panes का क्या कार्य है?",
+        "description": "Freeze Panes का उपयोग किसी Row या Column को स्थिर (Fixed) रखने के लिए किया जाता है,<br> ताकि स्क्रॉल करने पर भी वह दिखता रहे।"
+    },
+    {
+        "heading": "<b>16.</b> MS Excel में Shortcut Key से New Workbook कैसे खोलें?",
+        "description": "**Ctrl + N** का उपयोग करके नई Workbook खोली जाती है।"
+    },
+    {
+        "heading": "<b>17.</b> MS Excel में Save करने की Shortcut Key क्या है?",
+        "description": "**Ctrl + S** का उपयोग फाइल को सेव करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>18.</b> MS Excel में Print Preview खोलने की Shortcut Key क्या है?",
+        "description": "**Ctrl + P** का उपयोग Print Preview खोलने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>19.</b> MS Excel में Undo और Redo की Shortcut Keys क्या हैं?",
+        "description": "Undo: **Ctrl + Z**<br> Redo: **Ctrl + Y**"
+    },
+    {
+        "heading": "<b>20.</b> MS Excel में Spell Check के लिए कौन-सा शॉर्टकट उपयोग किया जाता है?",
+        "description": "**F7** का उपयोग Spell Check के लिए किया जाता है।"
+    },
+    
+    
+    
+    {
+        "heading": "<b>21.</b> MS Excel में Conditional Formatting क्या है?",
+        "description": "Conditional Formatting का उपयोग डेटा के आधार पर सेल्स को रंगने (Highlight) के लिए किया जाता है।<br> उदाहरण: 50 से ऊपर के नंबरों को हरे रंग में दिखाना।"
+    },
+    {
+        "heading": "<b>22.</b> MS Excel में Data Validation का क्या उपयोग है?",
+        "description": "Data Validation का उपयोग यह सुनिश्चित करने के लिए किया जाता है कि उपयोगकर्ता केवल वैध डेटा (जैसे संख्याएँ, दिनांक) दर्ज करे।"
+    },
+    {
+        "heading": "<b>23.</b> MS Excel में COUNTIF और SUMIF में क्या अंतर है?",
+        "description": "**COUNTIF** किसी शर्त पर आधारित सेल्स की संख्या गिनता है,<br> जबकि **SUMIF** किसी शर्त पर आधारित संख्याओं का योग करता है।"
+    },
+    {
+        "heading": "<b>24.</b> MS Excel में Name Box क्या होता है?",
+        "description": "Name Box वह क्षेत्र होता है,<br> जहाँ वर्तमान में चयनित सेल (जैसे A1, B2) का नाम दिखाया जाता है।"
+    },
+    {
+        "heading": "<b>25.</b> MS Excel में Drop-down List कैसे बनाई जाती है?",
+        "description": "Drop-down List बनाने के लिए **Data Validation → List** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>26.</b> MS Excel में Flash Fill का क्या उपयोग है?",
+        "description": "Flash Fill का उपयोग डेटा को पैटर्न के अनुसार स्वचालित रूप से भरने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>27.</b> MS Excel में CONCATENATE फ़ंक्शन क्या करता है?",
+        "description": "CONCATENATE फ़ंक्शन दो या अधिक टेक्स्ट स्ट्रिंग्स को जोड़ता है।<br> उदाहरण: `=CONCATENATE(A1, ' ', B1)`"
+    },
+    {
+        "heading": "<b>28.</b> MS Excel में RAND और RANDBETWEEN फ़ंक्शन का क्या उपयोग है?",
+        "description": "**RAND()** यादृच्छिक (Random) दशमलव संख्या उत्पन्न करता है,<br> जबकि **RANDBETWEEN(1, 100)** एक निर्दिष्ट सीमा के बीच एक संपूर्ण संख्या देता है।"
+    },
+    {
+        "heading": "<b>29.</b> MS Excel में Text to Columns का क्या उपयोग है?",
+        "description": "Text to Columns का उपयोग एक सेल में मौजूद टेक्स्ट को कई कॉलम्स में विभाजित करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>30.</b> MS Excel में PROPER, UPPER और LOWER फ़ंक्शंस क्या करते हैं?",
+        "description": "**PROPER()** प्रत्येक शब्द का पहला अक्षर बड़ा करता है,<br> **UPPER()** पूरे टेक्स्ट को बड़े अक्षरों में बदलता है,<br> **LOWER()** पूरे टेक्स्ट को छोटे अक्षरों में बदलता है।"
+    },
+    {
+        "heading": "<b>31.</b> MS Excel में TRIM फ़ंक्शन क्या करता है?",
+        "description": "TRIM फ़ंक्शन टेक्स्ट से अतिरिक्त स्पेस (खाली स्थान) हटाने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>32.</b> MS Excel में Find और Replace का क्या उपयोग है?",
+        "description": "**Find** का उपयोग किसी विशेष शब्द या संख्या को खोजने के लिए किया जाता है,<br> और **Replace** का उपयोग उसे किसी अन्य शब्द से बदलने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>33.</b> MS Excel में Protect Sheet और Protect Workbook में क्या अंतर है?",
+        "description": "**Protect Sheet** किसी विशेष शीट को संपादन से बचाता है,<br> जबकि **Protect Workbook** पूरी फाइल को संरक्षित करता है।"
+    },
+    {
+        "heading": "<b>34.</b> MS Excel में Goal Seek का क्या उपयोग है?",
+        "description": "Goal Seek का उपयोग किसी विशेष लक्ष्य को प्राप्त करने के लिए इनपुट मान बदलने में मदद करता है।"
+    },
+    {
+        "heading": "<b>35.</b> MS Excel में Solver क्या है?",
+        "description": "Solver एक उन्नत टूल है,<br> जिसका उपयोग जटिल समस्याओं को हल करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>36.</b> MS Excel में XLOOKUP क्या है?",
+        "description": "XLOOKUP एक आधुनिक फ़ंक्शन है,<br> जो VLOOKUP और HLOOKUP की तुलना में अधिक लचीला और शक्तिशाली है।"
+    },
+    {
+        "heading": "<b>37.</b> MS Excel में Subtotal फ़ंक्शन का क्या उपयोग है?",
+        "description": "Subtotal फ़ंक्शन डेटा का आंशिक योग निकालने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>38.</b> MS Excel में Array Formula क्या होता है?",
+        "description": "Array Formula एक साथ कई गणनाएँ करने की अनुमति देता है।<br> उदाहरण: `=SUM(A1:A10 * B1:B10)`"
+    },
+    {
+        "heading": "<b>39.</b> MS Excel में Power Query का क्या उपयोग है?",
+        "description": "Power Query का उपयोग डेटा को इम्पोर्ट, ट्रांसफॉर्म और विश्लेषण करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>40.</b> MS Excel में Pivot Chart क्या होता है?",
+        "description": "Pivot Chart, Pivot Table का ग्राफिकल प्रतिनिधित्व (Graphical Representation) होता है।"
+    },
+    
+    
+    {
+        "heading": "<b>41.</b> MS Excel में IFERROR फ़ंक्शन का उपयोग क्या है?",
+        "description": "IFERROR फ़ंक्शन किसी फ़ॉर्मूला में त्रुटि (Error) होने पर एक वैकल्पिक मान लौटाता है।<br> उदाहरण: `=IFERROR(A1/B1, 'त्रुटि!')`"
+    },
+    {
+        "heading": "<b>42.</b> MS Excel में Pivot Table Refresh करने की शॉर्टकट की क्या है?",
+        "description": "Pivot Table को Refresh करने के लिए `Alt + F5` शॉर्टकट का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>43.</b> MS Excel में COUNT, COUNTA और COUNTBLANK में क्या अंतर है?",
+        "description": "**COUNT** केवल संख्यात्मक मानों की गिनती करता है,<br> **COUNTA** सभी गैर-खाली सेल्स की गिनती करता है,<br> **COUNTBLANK** केवल खाली सेल्स की गिनती करता है।"
+    },
+    {
+        "heading": "<b>44.</b> MS Excel में Quick Analysis Tool का उपयोग क्या है?",
+        "description": "Quick Analysis Tool डेटा को जल्दी से चार्ट, टेबल, फॉर्मेटिंग आदि में बदलने की सुविधा देता है।"
+    },
+    {
+        "heading": "<b>45.</b> MS Excel में INDIRECT फ़ंक्शन क्या करता है?",
+        "description": "INDIRECT फ़ंक्शन किसी सेल संदर्भ (Cell Reference) को डायनामिक रूप से बदलने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>46.</b> MS Excel में TREND फ़ंक्शन का क्या उपयोग है?",
+        "description": "TREND फ़ंक्शन डेटा के आधार पर भविष्य की मानों (Future Values) का अनुमान लगाने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>47.</b> MS Excel में CONCAT और TEXTJOIN में क्या अंतर है?",
+        "description": "**CONCAT** केवल सेल्स को जोड़ता है,<br> जबकि **TEXTJOIN** जोड़ने के साथ-साथ एक सेपरेटर (Separator) भी देता है।"
+    },
+    {
+        "heading": "<b>48.</b> MS Excel में UNIQUE फ़ंक्शन क्या करता है?",
+        "description": "UNIQUE फ़ंक्शन किसी सूची से डुप्लिकेट मानों को हटाकर केवल अद्वितीय (Unique) मान दिखाता है।"
+    },
+    {
+        "heading": "<b>49.</b> MS Excel में DATEDIF फ़ंक्शन क्या करता है?",
+        "description": "DATEDIF दो तारीखों के बीच का अंतर (Years, Months, Days) निकालने के लिए उपयोग किया जाता है।<br> उदाहरण: `=DATEDIF(A1, B1, 'Y')`"
+    },
+    {
+        "heading": "<b>50.</b> MS Excel में FILTER फ़ंक्शन का उपयोग क्या है?",
+        "description": "FILTER फ़ंक्शन डेटा को किसी शर्त के आधार पर फ़िल्टर करता है।<br> उदाहरण: `=FILTER(A2:A10, B2:B10>50)`"
+    },
+    {
+        "heading": "<b>51.</b> MS Excel में STOCK और GEOGRAPHY डेटा टाइप क्या होते हैं?",
+        "description": "STOCK डेटा टाइप स्टॉक की वर्तमान कीमत देता है,<br> और GEOGRAPHY डेटा टाइप शहरों, देशों आदि की जानकारी देता है।"
+    },
+    {
+        "heading": "<b>52.</b> MS Excel में AutoFill और Flash Fill में क्या अंतर है?",
+        "description": "**AutoFill** एक पैटर्न के आधार पर डेटा भरता है,<br> जबकि **Flash Fill** डेटा को स्वतः पहचानकर भरता है।"
+    },
+    {
+        "heading": "<b>53.</b> MS Excel में Sparklines क्या हैं?",
+        "description": "Sparklines छोटे चार्ट होते हैं,<br> जो डेटा ट्रेंड को किसी सेल में ही दिखाते हैं।"
+    },
+    {
+        "heading": "<b>54.</b> MS Excel में SUBSTITUTE और REPLACE में क्या अंतर है?",
+        "description": "**SUBSTITUTE** एक टेक्स्ट में दिए गए शब्दों को बदलता है,<br> जबकि **REPLACE** एक टेक्स्ट के किसी विशेष स्थान पर परिवर्तन करता है।"
+    },
+    {
+        "heading": "<b>55.</b> MS Excel में Watch Window का क्या उपयोग है?",
+        "description": "Watch Window का उपयोग किसी फ़ॉर्मूला वाले सेल्स को एक ही स्थान पर मॉनिटर करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>56.</b> MS Excel में HYPERLINK फ़ंक्शन का उपयोग क्या है?",
+        "description": "HYPERLINK फ़ंक्शन किसी वेब पेज, फाइल, या ईमेल एड्रेस को जोड़ने के लिए उपयोग किया जाता है।<br> उदाहरण: `=HYPERLINK('https://example.com', 'Visit Here')`"
+    },
+    {
+        "heading": "<b>57.</b> MS Excel में ROWS और COLUMNS फ़ंक्शन क्या करते हैं?",
+        "description": "**ROWS()** किसी रेंज में मौजूद पंक्तियों की संख्या देता है,<br> जबकि **COLUMNS()** कॉलम्स की संख्या देता है।"
+    },
+    {
+        "heading": "<b>58.</b> MS Excel में Slicer क्या है?",
+        "description": "Slicer का उपयोग Pivot Table या Data Table में फ़िल्टरिंग को आसान बनाने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>59.</b> MS Excel में Solver Add-in को कैसे सक्रिय करें?",
+        "description": "Solver को सक्रिय करने के लिए **File → Options → Add-ins → Manage Excel Add-ins → Solver Add-in** चुनें।"
+    },
+    {
+        "heading": "<b>60.</b> MS Excel में Custom List का क्या उपयोग है?",
+        "description": "Custom List का उपयोग उपयोगकर्ता-परिभाषित डेटा (जैसे जनवरी, फरवरी...) को जल्दी भरने के लिए किया जाता है।"
+    }
+]
+}
